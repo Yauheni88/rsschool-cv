@@ -1,6 +1,6 @@
-1.     **Yauheni Biazruchka**
-2.     **Phone number** +37544-781-62-72 (viber), **email**: krupica25@gmail.com
-3.     **Info about myself:** I would like to become a FrontEnd developer. Nowadays I work in aviation industry.
+1. **Yauheni Biazruchka**
+2. **Phone number** +37544-781-62-72 (viber), **email**: krupica25@gmail.com
+3. **Info about myself:** I would like to become a FrontEnd developer. Nowadays I work in aviation industry.
         **Strengths**: 
  * Stress-resistance;
  *	Disciplined;

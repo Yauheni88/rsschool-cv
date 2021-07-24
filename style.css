@@ -1,0 +1,195 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #E5E5E5;
+}
+
+#main {
+    width: 595px; ;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+header {
+    display: flex;
+    width: 100%;
+}
+
+#main .left_container {
+    flex: 2;
+}
+
+h1 {
+    margin: 0;
+    font: normal 24px/28px Arial;
+    color: #101214;
+}
+
+h2 {
+    color: #73808D;
+    font: normal 14px/21px Arial;
+    border-bottom: 1px solid #73808D;
+}
+
+h3 {
+    margin: 0 0 5px 0;
+}
+
+p {
+    margin: 5px 0;
+    font: normal 14px/21px Arial;
+}
+
+.blue {
+    font: normal 16px/28px Arial;
+    color: #2AAEE7;
+}
+
+.size_blue {
+    font: normal 12px/18px Arial;
+}
+
+.div_padding {
+    padding: 22px 48px;
+}
+
+.div_flex {
+    display: flex;
+}
+
+/* Списки*/
+.ul_flex {
+    flex-grow: 1;
+    flex-wrap: nowrap;
+}
+
+ul.details {
+    margin: 0;
+    padding-left: 0;
+}
+
+ul.details li {
+    list-style: none;
+    font: normal 12px/18px Arial;
+}
+
+ul.details li i, .passions_wrap i {
+    margin-right: 6px;
+    color: #2AAEE7;
+}
+
+ul.details li a {
+    color:#101214;
+}
+
+/* Правая часть картинки */
+
+.right_container {
+    flex: 1;
+    padding: 22px 48px 22px 10px;
+}
+
+.div_img {
+    display: flex;
+    justify-content: center;
+}
+
+.right_container .avatar {
+    width: 99px;
+    height: 99px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+/*левый основной контент*/
+
+#content {
+    display: flex;
+}
+
+.experience {
+    padding: 0 48px;
+}
+
+.date {
+    color: #73808D;
+    font: normal 11px/18px Arial;
+}
+
+.passions_wrap {
+    padding: 22px 48px;
+}
+
+.passions {
+    display: flex;
+}
+
+.passion_div {
+    display: flex;
+    flex: 1;
+}
+
+.passions_span {
+    font: normal 14px/21px Arial;
+}
+
+.passions_wrap i {
+    margin-top: 3px;
+}
+
+.pas_margine_right {
+    margin-right: 15px;
+}
+
+/*правый основной контент*/
+
+.div_margin {
+    margin-bottom: 25px;
+}
+
+.right_container ul {
+    margin: 5px 0;
+    padding: 0;
+}
+
+.right_container ul li {
+    display: inline-block;
+    text-decoration: underline;
+    font: normal 12px/18px Arial;
+}
+
+/* Footer */
+
+footer {
+    display: flex;
+    padding: 22px 48px;
+    background-color: #2AAEE7;
+}
+
+.footer_div {
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+.footer_div a {
+    color: #fff;
+}
+
+footer i {
+    margin-right: 6px;
+    color: #fff;
+}
+
+.flex_end {
+    justify-content: flex-end;
+}
+
+footer .logo {
+    height: 30px;
+}
+
+footer time {
+    margin-left: 6px;
+    color: #fff;
+}

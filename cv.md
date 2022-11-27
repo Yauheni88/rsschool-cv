@@ -25,3 +25,15 @@ for (i = 0; i < item.length; i++ ){
 ```
 ## Experience
 None
+## Education
+* MSHAC
+    + ATC
+* Freedom
+    + HTML/ CSS
+* YouTube
+    + SCSS
+    + BEM
+    + VS code
+    + JS
+## English
+**B2** ( MSHAC, England)

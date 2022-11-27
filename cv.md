@@ -26,11 +26,11 @@ for (i = 0; i < item.length; i++ ){
 ## Experience
 None
 ## Education
-* MSHAC
+* **MSHAC**
     + ATC
-* Freedom
+* **Freedom**
     + HTML/ CSS
-* YouTube
+* **YouTube**
     + SCSS
     + BEM
     + VS code
